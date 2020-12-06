@@ -24,7 +24,7 @@ soft.com/visual-cpp-build-tools/`
 7. Start your project
 
 <br><br>
-## Проблемы при установки фреймворка
+## Проблемы при установке фреймворка
 
 При установке фреймворка нет папки `template` в `d:\ProgramData\Anaconda3\envs\NLPF\lib\site-packages\smart_kit\template`<br>
 Удаление и переустановка фреймворка не помогли - папки все еще нет<br>

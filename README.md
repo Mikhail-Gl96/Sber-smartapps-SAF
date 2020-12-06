@@ -1,6 +1,6 @@
 Библиотека смартаппов для Сбер Салюта
 ======
-Смартаппы для экосистемы СБЕРа. Разработаны на базе фреймворка [smart_app_framework](#https://github.com/sberdevices/smart_app_framework) на Python
+Смартаппы для экосистемы СБЕРа. Разработаны на базе фреймворка [smart_app_framework](#https://github.com/sberdevices/smart_app_framework) https://github.com/sberdevices/smart_app_framework на Python
 
 #### Боты работают с версиями Python 3.6-3.7 <br>С другими версиями боты не работают!
 
@@ -18,7 +18,7 @@ How to on Windows:
 5. Relax for a few minutes while pip will do his job
 6. After a few minutes you may get error like this: `error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.micro
 soft.com/visual-cpp-build-tools/`
-    1. If you are so lucky, go to [MS site](#https://visualstudio.microsoft.com/visual-cpp-build-tools/) and download installer.
+    1. If you are so lucky, go to [MS site](#https://visualstudio.microsoft.com/visual-cpp-build-tools/) https://visualstudio.microsoft.com/visual-cpp-build-tools/  and download installer.
     2. Start it, choose `C++ build tools` and a path for files, because it is about **6,4-8.0 GB** (LOL)
     3. Relax while it will be downloading
 7. Start your project

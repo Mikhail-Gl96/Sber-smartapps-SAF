@@ -1,0 +1,13 @@
+D:\Anaconda3\envs\Sberbank_Bot
+
+cd /D D:\Anaconda3\envs\Sberbank_Bot\Scripts
+
+activate NLPF
+
+activate NLPF_3-6
+
+python -m pip install git+https://github.com/sberdevices/smart_app_framework@main
+
+python -m pip install "C:\Users\misha\Desktop\Python Projects\smart_app_framework"
+
+python -m smart_kit create_app test_app
